@@ -8,6 +8,8 @@ This project uses Python EDA and Tableau*for interactive dashboards to analyze s
 
 ## 🔗 Live Dashboard on Tableau Public
 Dashboard 1 : https://public.tableau.com/app/profile/bishal.gurung/viz/StudentPerformancDashboard/Dashboard1?publish=yes
+
+
 Dashboard 2 : https://public.tableau.com/app/profile/bishal.gurung/viz/StudentPerformancDashboard2/Dashboard2?publish=yes
 
 
